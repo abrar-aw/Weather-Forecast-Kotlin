@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name ="s_tiny">5dp</dimen>
+    <dimen name ="s_small">10dp</dimen>
+    <dimen name ="s_large">15dp</dimen>
+    <dimen name ="s_huge">25dp</dimen>
+    <dimen name ="t_medium">10sp</dimen>
+    <dimen name ="t_large">18sp</dimen>
+    <dimen name ="t_huge">23sp</dimen>
+    <dimen name ="t_giant">100sp</dimen>
+
+</resources>
